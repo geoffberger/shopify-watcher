@@ -20,11 +20,14 @@ So if you are working from this path:
     /Users/@username@/Workspace/shopify_themes/foo_theme
 
 This is what you would pass into the node script. Once the file has been
-created run, the node script:
+created, run the node script:
 
     node listen.js
 
-Open up a new tab to your shopify theme, and start modifying. You'll see the
+Open up a new tab to your shopify theme and start modifying. You'll see the
 logging occur from the node script. Refresh the browser and you should be good
 to go.
+
+You can run the node script from anywhere really, since shopify_watcher takes
+in a full path.
 

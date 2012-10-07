@@ -1,0 +1,12 @@
+{
+  "name": "shopify_watcher",
+  "version": "0.0.1",
+  "description": "A simple uility that listens for changes to a shopify template.",
+  "dependencies": {
+    "watch": "*"
+  },
+  "main": "./lib/index",
+  "engines": {
+    "node": ">=0.8"
+  }
+}

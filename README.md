@@ -1,6 +1,6 @@
 #Spotify Watcher
 
-This simple and pretty trivial node module that works in conjunction with https://github.com/Shopify/shopify_theme.git.
+This simple and pretty trivial node module that works in conjunction with https://github.com/Shopify/shopify_theme.
 
 ##Installation
 
